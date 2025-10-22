@@ -23,7 +23,7 @@
 <a href="https://github.com/inodinwetrust10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="inodinwetrust10" height="30" width="40" /></a>
 <a href="https://instagram.com/inodinwetrust10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inodinwetrust10" height="30" width="40" /></a>
 <a href="https://twitter.com/adi4gbsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adi4gbsingh" height="30" width="40" /></a>
-<a href="https://youtube.com/AdityaSingh-uv8uf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AdityaSingh-uv8uf" height="30" width="40" /></a>
+<a href="https://youtube.com/@AdityaSingh-uv8uf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AdityaSingh-uv8uf" height="30" width="40" /></a>
 <a href="https://leetcode.com/inodinwetrust10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="inodinwetrust10" height="30" width="40" /></a>
 </p>
 
