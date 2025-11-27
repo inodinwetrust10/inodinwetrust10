@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/adi4gbsingh" target="blank"><img src="https://img.shields.io/twitter/follow/adi4gbsingh?logo=twitter&style=for-the-badge" alt="adi4gbsingh" /></a> </p>
 
-- 🔭 I'm currently working on **A large file sharing app**
+- 🔭 I'm currently working on **gRPC and microservices**
 
 - 🌱 I'm currently learning **C and Low Level Development**
 
-- 👯 I'm looking to collaborate on **Building a shell **
+- 👯 I'm looking to collaborate on **Building a microkernel **
 
 - 💬 Ask me about **React,Node.js,JS.TS,C,Go**
 
 - 📫 How to reach me **adi4gbsingh@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1MFLMFBG_B3fRlRG35xAFYKrltTV4XsUb/view?usp=sharing](https://drive.google.com/file/d/1MFLMFBG_B3fRlRG35xAFYKrltTV4XsUb/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1jPtyMRy8NTmlSZYr2CYBhDzuFtR1OiAc/view?usp=sharing](https://drive.google.com/file/d/1jPtyMRy8NTmlSZYr2CYBhDzuFtR1OiAc/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
